@@ -1,1 +1,0 @@
-# jamaisdk-ts-docs
